@@ -1,0 +1,16 @@
+C:\Users\Pinkal.patel\Desktop\howto_compare_images (1)\compare_image\bin\Debug\howto_compare_images.exe
+C:\Users\Pinkal.patel\Desktop\howto_compare_images (1)\compare_image\bin\Debug\howto_compare_images.pdb
+C:\Users\Pinkal.patel\Desktop\howto_compare_images (1)\compare_image\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pinkal.patel\Desktop\howto_compare_images (1)\compare_image\obj\Debug\compare_image.Form1.resources
+C:\Users\Pinkal.patel\Desktop\howto_compare_images (1)\compare_image\obj\Debug\howto_compare_images.Properties.Resources.resources
+C:\Users\Pinkal.patel\Desktop\howto_compare_images (1)\compare_image\obj\Debug\compare_image.csproj.GenerateResource.Cache
+C:\Users\Pinkal.patel\Desktop\howto_compare_images (1)\compare_image\obj\Debug\howto_compare_images.exe
+C:\Users\Pinkal.patel\Desktop\howto_compare_images (1)\compare_image\obj\Debug\howto_compare_images.pdb
+C:\Users\Pinkal.patel\Desktop\compare_image\obj\Debug\howto_compare_images.exe
+C:\Users\Pinkal.patel\Desktop\compare_image\obj\Debug\howto_compare_images.pdb
+C:\Users\Pinkal.patel\Desktop\compare_image\bin\Debug\howto_compare_images.exe
+C:\Users\Pinkal.patel\Desktop\compare_image\bin\Debug\howto_compare_images.pdb
+C:\Users\Pinkal.patel\Desktop\compare_image\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pinkal.patel\Desktop\compare_image\obj\Debug\compare_image.Form1.resources
+C:\Users\Pinkal.patel\Desktop\compare_image\obj\Debug\howto_compare_images.Properties.Resources.resources
+C:\Users\Pinkal.patel\Desktop\compare_image\obj\Debug\compare_image.csproj.GenerateResource.Cache
